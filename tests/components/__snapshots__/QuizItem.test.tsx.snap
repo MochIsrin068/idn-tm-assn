@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests components QuizItem Perform snapshots test QuizItem 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="rounded-lg hover:opacity-90"
+      >
+        <div
+          class="ant-image"
+        >
+          <img
+            alt="thumbnail"
+            class="ant-image-img rounded-lg"
+            src="https://sinyalkarir.com/wp-content/uploads/2022/02/Perbedaan-Pekerjaan-dan-Profesi.webp"
+          />
+        </div>
+        <div
+          class="mr-4 "
+        >
+          <span
+            class="ant-typography text-gray-400"
+          >
+            Education
+          </span>
+          <h5
+            class="ant-typography !m-0 line-clamp-3"
+          >
+            Kuis Gambar Ini Bisa Ungkap Apa Ranan Profesimu
+          </h5>
+        </div>
+        <div
+          class="mt-2 flex items-center"
+        >
+          <span
+            class="ant-typography text-gray-400 font-bold mr-1"
+          >
+            11.234
+          </span>
+          <span
+            class="ant-typography text-gray-400"
+          >
+            Plays
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="rounded-lg hover:opacity-90"
+    >
+      <div
+        class="ant-image"
+      >
+        <img
+          alt="thumbnail"
+          class="ant-image-img rounded-lg"
+          src="https://sinyalkarir.com/wp-content/uploads/2022/02/Perbedaan-Pekerjaan-dan-Profesi.webp"
+        />
+      </div>
+      <div
+        class="mr-4 "
+      >
+        <span
+          class="ant-typography text-gray-400"
+        >
+          Education
+        </span>
+        <h5
+          class="ant-typography !m-0 line-clamp-3"
+        >
+          Kuis Gambar Ini Bisa Ungkap Apa Ranan Profesimu
+        </h5>
+      </div>
+      <div
+        class="mt-2 flex items-center"
+      >
+        <span
+          class="ant-typography text-gray-400 font-bold mr-1"
+        >
+          11.234
+        </span>
+        <span
+          class="ant-typography text-gray-400"
+        >
+          Plays
+        </span>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

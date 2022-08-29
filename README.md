@@ -1,34 +1,111 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="public/images/idn-logo.png" alt="Logo" width="100">
+  </a>
+
+  <h3 align="center">IDN Times Media</h3>
+
+  <p align="center">
+    An awesome web IDN Times Media for assement test Senior Frontend Engineer !!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Demo »</strong></a>
+    <br />
+  </p>
+</div>
 
 ## Getting Started
 
-First, run the development server:
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> _Below is an example of how you can installing and setting up this app._
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/your_username_/Project-Name.git
+    ```
+2.  Install NPM or Install Yarn packages
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+    ```sh
+    npm i
+    ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+    or
 
-## Learn More
+        ```sh
+        yarn
 
-To learn more about Next.js, take a look at the following resources:
+    ```
+    <br/>
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Running
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+> _Below is an example of how you can run this app locally._
 
-## Deploy on Vercel
+1. Open terminal in the root project
+2. Run this command
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```sh
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   or
+
+   ```sh
+   yarn dev
+   ```
+
+After that you can show this web locally on localhost port 3000
+
+<br/>
+
+### Running Unit Testing
+
+> _Below is an example of how you can run uni testing this app._
+
+1. Open terminal in the root project
+2. Run this command
+
+   ```sh
+   npm run test tests
+   ```
+
+   or
+
+   ```sh
+   yarn test tests
+   ```
+
+3. If you want to see the coverage score, you can run this command
+
+   ```sh
+   npm run test:coverage tests
+   ```
+
+   or
+
+   ```sh
+   yarn test:coverage tests
+   ```
+
+<br/>
+
+## Folder Structure
+
+> Folder structure options and naming conventions for software projects
+
+    .
+    ├── components              # Folder to manage all about components
+    ├── constant                # Folder to manage constant data
+    ├── hooks                   # Folder to manage hooks
+    ├── lib                     # Folder to manage content fetching
+    ├── pages                   # Folder to manage pages ( default )
+    ├── post                    # Folder to manage all about post content
+    ├── public                  # Folder to manage public metadata or source
+    ├── styles                  # Folder to manage style ( default )
+    ├── tests                   # All unit testing
+    └── README.md

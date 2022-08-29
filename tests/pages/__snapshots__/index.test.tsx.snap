@@ -1,0 +1,442 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests entry pages HomePage Perform snapshots test HomePage 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <main
+        class="flex justify-center bg-gray-100"
+      >
+        <div
+          class="max-w-md h-[100vh] bg-white"
+        >
+          <div>
+            <div
+              class="ant-result ant-result-warning"
+            >
+              <div
+                class="ant-result-icon"
+              >
+                <span
+                  aria-label="warning"
+                  class="anticon anticon-warning"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="warning"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M955.7 856l-416-720c-6.2-10.7-16.9-16-27.7-16s-21.6 5.3-27.7 16l-416 720C56 877.4 71.4 904 96 904h832c24.6 0 40-26.6 27.7-48zM480 416c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v184c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V416zm32 352a48.01 48.01 0 010-96 48.01 48.01 0 010 96z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <div
+                class="ant-result-title"
+              >
+                Failed to load data profile!!!.
+              </div>
+            </div>
+            <div
+              class="flex items-center justify-between mt-4 px-6"
+            >
+              <div
+                class="cursor-pointer flex items-center justify-center 
+        py-2.5 
+        px-8
+        md:px-9
+        rounded-3xl
+        font-bold
+      bg-red-200  text-red-500"
+                data-testid="tab-button"
+              >
+                <span
+                  class="text-sm"
+                >
+                  Berita
+                </span>
+              </div>
+              <div
+                class="cursor-pointer flex items-center justify-center 
+        py-2.5 
+        px-8
+        md:px-9
+        rounded-3xl
+        font-bold
+      border border-gray-400"
+                data-testid="tab-button"
+              >
+                <span
+                  class="text-sm"
+                >
+                  Livestream
+                </span>
+              </div>
+              <div
+                class="cursor-pointer flex items-center justify-center 
+        py-2.5 
+        px-8
+        md:px-9
+        rounded-3xl
+        font-bold
+      border border-gray-400"
+                data-testid="tab-button"
+              >
+                <span
+                  class="text-sm"
+                >
+                  Quiz
+                </span>
+              </div>
+            </div>
+            <div
+              class="px-5 h-[50vh] overflow-y-scroll mt-5 pb-5"
+            >
+              <div>
+                <a
+                  href="/news/news-0011"
+                >
+                  <div
+                    class="mb-6 hover:opacity-90"
+                  >
+                    <div
+                      class="flex justify-between"
+                    >
+                      <div
+                        class="w-2/3"
+                      >
+                        <div
+                          class="mr-4 "
+                        >
+                          <span
+                            class="ant-typography text-gray-400"
+                          >
+                            <div
+                              class="flex items-center text-sm"
+                            >
+                              <time
+                                datetime="2022-08-25"
+                              >
+                                August 25, 2022
+                              </time>
+                              , 09.10
+                            </div>
+                          </span>
+                          <h5
+                            class="ant-typography !m-0 line-clamp-3"
+                          >
+                            Ini Kunci untuk Terjun ke NFT, Jangan Asal Ikut-Ikutan!
+                          </h5>
+                        </div>
+                      </div>
+                      <div
+                        class="w-[160px] h-[96px] rounded-md flex items-end justify-end bg-no-repeat"
+                        data-testid="news-thumbnail-container"
+                        style="background: url(https://cdn.eraspace.com/pub/media/mageplaza/blog/post/c/a/cara-membuat-nft.jpg); background-size: cover;"
+                      >
+                        <div
+                          class="bg-white py-1 px-2 rounded-tl-md"
+                        >
+                          <div
+                            class="ant-image"
+                            data-testid="news-thumbnail"
+                            style="width: 60px;"
+                          >
+                            <img
+                              alt="thumbnail"
+                              class="ant-image-img"
+                              src="/images/idn-logo.png"
+                              width="60"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="flex items-center justify-between mt-1"
+                    >
+                      <span
+                        class="ant-typography text-gray-400"
+                      >
+                        Bisnis
+                      </span>
+                      <span
+                        aria-label="share-alt"
+                        class="anticon anticon-share-alt cursor-pointer text-xl font-bold"
+                        role="img"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          data-icon="share-alt"
+                          fill="currentColor"
+                          focusable="false"
+                          height="1em"
+                          viewBox="64 64 896 896"
+                          width="1em"
+                        >
+                          <path
+                            d="M752 664c-28.5 0-54.8 10-75.4 26.7L469.4 540.8a160.68 160.68 0 000-57.6l207.2-149.9C697.2 350 723.5 360 752 360c66.2 0 120-53.8 120-120s-53.8-120-120-120-120 53.8-120 120c0 11.6 1.6 22.7 4.7 33.3L439.9 415.8C410.7 377.1 364.3 352 312 352c-88.4 0-160 71.6-160 160s71.6 160 160 160c52.3 0 98.7-25.1 127.9-63.8l196.8 142.5c-3.1 10.6-4.7 21.8-4.7 33.3 0 66.2 53.8 120 120 120s120-53.8 120-120-53.8-120-120-120zm0-476c28.7 0 52 23.3 52 52s-23.3 52-52 52-52-23.3-52-52 23.3-52 52-52zM312 600c-48.5 0-88-39.5-88-88s39.5-88 88-88 88 39.5 88 88-39.5 88-88 88zm440 236c-28.7 0-52-23.3-52-52s23.3-52 52-52 52 23.3 52 52-23.3 52-52 52z"
+                          />
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>,
+  "container": <div>
+    <main
+      class="flex justify-center bg-gray-100"
+    >
+      <div
+        class="max-w-md h-[100vh] bg-white"
+      >
+        <div>
+          <div
+            class="ant-result ant-result-warning"
+          >
+            <div
+              class="ant-result-icon"
+            >
+              <span
+                aria-label="warning"
+                class="anticon anticon-warning"
+                role="img"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="warning"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  viewBox="64 64 896 896"
+                  width="1em"
+                >
+                  <path
+                    d="M955.7 856l-416-720c-6.2-10.7-16.9-16-27.7-16s-21.6 5.3-27.7 16l-416 720C56 877.4 71.4 904 96 904h832c24.6 0 40-26.6 27.7-48zM480 416c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v184c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V416zm32 352a48.01 48.01 0 010-96 48.01 48.01 0 010 96z"
+                  />
+                </svg>
+              </span>
+            </div>
+            <div
+              class="ant-result-title"
+            >
+              Failed to load data profile!!!.
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-between mt-4 px-6"
+          >
+            <div
+              class="cursor-pointer flex items-center justify-center 
+        py-2.5 
+        px-8
+        md:px-9
+        rounded-3xl
+        font-bold
+      bg-red-200  text-red-500"
+              data-testid="tab-button"
+            >
+              <span
+                class="text-sm"
+              >
+                Berita
+              </span>
+            </div>
+            <div
+              class="cursor-pointer flex items-center justify-center 
+        py-2.5 
+        px-8
+        md:px-9
+        rounded-3xl
+        font-bold
+      border border-gray-400"
+              data-testid="tab-button"
+            >
+              <span
+                class="text-sm"
+              >
+                Livestream
+              </span>
+            </div>
+            <div
+              class="cursor-pointer flex items-center justify-center 
+        py-2.5 
+        px-8
+        md:px-9
+        rounded-3xl
+        font-bold
+      border border-gray-400"
+              data-testid="tab-button"
+            >
+              <span
+                class="text-sm"
+              >
+                Quiz
+              </span>
+            </div>
+          </div>
+          <div
+            class="px-5 h-[50vh] overflow-y-scroll mt-5 pb-5"
+          >
+            <div>
+              <a
+                href="/news/news-0011"
+              >
+                <div
+                  class="mb-6 hover:opacity-90"
+                >
+                  <div
+                    class="flex justify-between"
+                  >
+                    <div
+                      class="w-2/3"
+                    >
+                      <div
+                        class="mr-4 "
+                      >
+                        <span
+                          class="ant-typography text-gray-400"
+                        >
+                          <div
+                            class="flex items-center text-sm"
+                          >
+                            <time
+                              datetime="2022-08-25"
+                            >
+                              August 25, 2022
+                            </time>
+                            , 09.10
+                          </div>
+                        </span>
+                        <h5
+                          class="ant-typography !m-0 line-clamp-3"
+                        >
+                          Ini Kunci untuk Terjun ke NFT, Jangan Asal Ikut-Ikutan!
+                        </h5>
+                      </div>
+                    </div>
+                    <div
+                      class="w-[160px] h-[96px] rounded-md flex items-end justify-end bg-no-repeat"
+                      data-testid="news-thumbnail-container"
+                      style="background: url(https://cdn.eraspace.com/pub/media/mageplaza/blog/post/c/a/cara-membuat-nft.jpg); background-size: cover;"
+                    >
+                      <div
+                        class="bg-white py-1 px-2 rounded-tl-md"
+                      >
+                        <div
+                          class="ant-image"
+                          data-testid="news-thumbnail"
+                          style="width: 60px;"
+                        >
+                          <img
+                            alt="thumbnail"
+                            class="ant-image-img"
+                            src="/images/idn-logo.png"
+                            width="60"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="flex items-center justify-between mt-1"
+                  >
+                    <span
+                      class="ant-typography text-gray-400"
+                    >
+                      Bisnis
+                    </span>
+                    <span
+                      aria-label="share-alt"
+                      class="anticon anticon-share-alt cursor-pointer text-xl font-bold"
+                      role="img"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        data-icon="share-alt"
+                        fill="currentColor"
+                        focusable="false"
+                        height="1em"
+                        viewBox="64 64 896 896"
+                        width="1em"
+                      >
+                        <path
+                          d="M752 664c-28.5 0-54.8 10-75.4 26.7L469.4 540.8a160.68 160.68 0 000-57.6l207.2-149.9C697.2 350 723.5 360 752 360c66.2 0 120-53.8 120-120s-53.8-120-120-120-120 53.8-120 120c0 11.6 1.6 22.7 4.7 33.3L439.9 415.8C410.7 377.1 364.3 352 312 352c-88.4 0-160 71.6-160 160s71.6 160 160 160c52.3 0 98.7-25.1 127.9-63.8l196.8 142.5c-3.1 10.6-4.7 21.8-4.7 33.3 0 66.2 53.8 120 120 120s120-53.8 120-120-53.8-120-120-120zm0-476c28.7 0 52 23.3 52 52s-23.3 52-52 52-52-23.3-52-52 23.3-52 52-52zM312 600c-48.5 0-88-39.5-88-88s39.5-88 88-88 88 39.5 88 88-39.5 88-88 88zm440 236c-28.7 0-52-23.3-52-52s23.3-52 52-52 52 23.3 52 52-23.3 52-52 52z"
+                        />
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
