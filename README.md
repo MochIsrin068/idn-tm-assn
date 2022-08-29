@@ -7,9 +7,9 @@
   <h3 align="center">IDN Times Media</h3>
 
   <p align="center">
-    An awesome web IDN Times Media for assement test Senior Frontend Engineer !!
+    An awesome web IDN Times Media for assement test Frontend Engineer !!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Demo »</strong></a>
+    <a href="https://idn-tm-assn.vercel.app/" target="_blank"><strong>View Demo »</strong></a>
     <br />
   </p>
 </div>
@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your_username_/Project-Name.git
+    git clone https://github.com/MochIsrin068/idn-tm-assn.git
     ```
 2.  Install NPM or Install Yarn packages
 

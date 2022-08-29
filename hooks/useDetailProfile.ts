@@ -9,7 +9,7 @@ export default function useDetailProfile() {
 
   const fetcher = (args: any) => fetch(args).then((res) => res.json());
   const { data: detailData, error: errorDetailData } = useSwr(
-    "http://localhost:3000/api/detail",
+    "/api/detail",
     fetcher
   );
 
